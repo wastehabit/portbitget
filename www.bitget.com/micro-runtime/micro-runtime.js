@@ -1,0 +1,1 @@
+!function(){import("/micro-runtime/assets/polyfill.7ec43eed.js"),import("/micro-runtime/assets/index.226dcb7f.js");let e=document.createElement("link");e.id="MicroCSS",e.setAttribute("rel","stylesheet"),e.href="/micro-runtime/assets/style.4403dbdb.css",e.onload=function(){window.dispatchEvent(new Event("MicroRuntime:cssReady"))},document.head.appendChild(e)}();
